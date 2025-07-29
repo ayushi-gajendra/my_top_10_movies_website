@@ -38,7 +38,7 @@ A Flask web application that allows you to search, add, rate, and review movies 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/ayushi-gajendra/my_top_10_movies_website.git
 cd your-repo-name
 ```
 
