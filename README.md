@@ -6,7 +6,7 @@ A Flask web application that allows you to search, add, rate, and review movies 
 
 ## 📸 Demo
 
-![App Screenshot](Screenshot.png)
+![App Screenshot](Screenshot .png)
 
 
 
