@@ -4,6 +4,12 @@ A Flask web application that allows you to search, add, rate, and review movies 
 
 ---
 
+## 📸 Demo
+
+![App Screenshot](Screenshot.png)
+
+
+
 ## 🚀 Features
 
 * 🔎 Search for movies by title using TMDb API
