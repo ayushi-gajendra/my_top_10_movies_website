@@ -25,11 +25,6 @@ A Flask web application that allows you to search, add, rate, and review movies 
 * [TMDb API](https://developer.themoviedb.org/)
 * [Bootstrap 5](https://getbootstrap.com/)
 
----
-
-## 🔪 Demo
-
-![App Screenshot](https://via.placeholder.com/800x400?text=Add+your+screenshot+here)
 
 ---
 
